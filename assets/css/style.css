@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* heading and navigation */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* jumbotron */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,17 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* main article and content */
 .content {
     width: 75%;
     display: inline-block;
@@ -89,6 +79,16 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/* aside with benfits  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -113,7 +113,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* footer */
 footer {
     padding: 30px;
     clear: both;
