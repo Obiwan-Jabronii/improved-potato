@@ -5,3 +5,4 @@ A website dedicated to improving the online presence of any business through sea
 Html and CSS
 
 ##  
+<img src="assets\images\Horiseon.png">
